@@ -1,4 +1,4 @@
-# song-popularity-prediction
+# Song Popularity Prediction
 
 <p><img src="https://github.com/heyrobin/song-popularity-prediction/blob/main/Banner.gif?raw=true"></p>
 
